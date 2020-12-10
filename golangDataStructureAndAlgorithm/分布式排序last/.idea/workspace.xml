@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78ada69f-7790-4390-844b-cf50db4de539" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1eaG4rxCticL0mNmwOezy24VaO1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Code/分布式归并排序节点" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build client.go">
+    <configuration name="go build Server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="分布式排序last" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Server.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="分布式排序last" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="分布式排序last" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/client.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build client.go" />
+        <item itemvalue="Go Build.go build Server.go" />
+        <item itemvalue="Go Build.go build code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ada69f-7790-4390-844b-cf50db4de539" name="Default Changelist" comment="" />
+      <created>1594552101579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594552101579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="49" key="#go_build_code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last" timestamp="1594642314801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="856" y="49" key="#go_build_code.qiangqiang.com/studygo/golang-数据结构与算法/分布式排序last/0.0.1536.824@0.0.1536.824" timestamp="1594642314801" />
+    <state x="693" y="178" width="690" height="646" key="EditFileWatcherDialog" timestamp="1594644932176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="693" y="178" width="690" height="646" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1594644932176" />
+    <state x="933" y="171" key="FileChooserDialogImpl" timestamp="1594647766684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594647766684" />
+    <state width="767" height="206" key="GridCell.Tab.0.bottom" timestamp="1594647135210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="767" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594647135210" />
+    <state width="767" height="206" key="GridCell.Tab.0.center" timestamp="1594647135210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="767" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594647135210" />
+    <state width="767" height="206" key="GridCell.Tab.0.left" timestamp="1594647135209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="767" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594647135209" />
+    <state width="767" height="206" key="GridCell.Tab.0.right" timestamp="1594647135210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="767" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594647135210" />
+    <state x="540" y="58" key="SettingsEditor" timestamp="1594644932865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594644932865" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594561325985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594561325985" />
+  </component>
+</project>

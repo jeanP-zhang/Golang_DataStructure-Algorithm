@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8073616b-8a4f-499c-942d-a37978fa946f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1dApzuL8s0oPQI6m7jNjrz5RKZ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../goPlus/main.go" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GO-CODE\src\code.qiangqiang.com\studygo\golang-数据结构与算法\链表\SingleLink" />
+      <recent name="D:\GO-CODE\src\code.qiangqiang.com\studygo\golang-数据结构与算法\Search" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build code.qiangqiang.com/studygo/golangDataStructureAndAlgorithm/maze">
+    <configuration name="go build code.qiangqiang.com/studygo/golang-数据结构与算法/Search/搜索数据" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-数据结构与算法" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Search/搜索数据/SearchData.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/Search/搜索数据" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build code.qiangqiang.com/studygo/golang-数据结构与算法/Sort/锦标赛排序" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-数据结构与算法" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Sort/锦标赛排序/sort.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/Sort/锦标赛排序" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build code.qiangqiang.com/studygo/golang-数据结构与算法/Sort/16csdnSort" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-数据结构与算法" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Sort/16csdnSort/CSDNSort.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/Sort/16csdnSort" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build code.qiangqiang.com/studygo/golangDataStructureAndAlgorithm/maze" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-数据结构与算法" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/maze/main.go" />
+      <package value="code.qiangqiang.com/studygo/golangDataStructureAndAlgorithm/maze" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build code.qiangqiang.com/studygo/golangDataStructureAndAlgorithm/maze" />
+        <item itemvalue="Go Build.go build code.qiangqiang.com/studygo/golang-数据结构与算法/Search/搜索数据" />
+        <item itemvalue="Go Build.go build code.qiangqiang.com/studygo/golang-数据结构与算法/Sort/16csdnSort" />
+        <item itemvalue="Go Build.go build code.qiangqiang.com/studygo/golang-数据结构与算法/Sort/锦标赛排序" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8073616b-8a4f-499c-942d-a37978fa946f" name="Default Changelist" comment="" />
+      <created>1591878017617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591878017617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="694" y="220" key="EditFileWatcherDialog" timestamp="1593181508136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="694" y="220" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1593181508136" />
+    <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1601029293225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601029293225" />
+    <state width="1537" height="208" key="GridCell.Tab.0.bottom" timestamp="1601015370590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601015370590" />
+    <state width="1537" height="208" key="GridCell.Tab.0.center" timestamp="1601015370590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601015370590" />
+    <state width="1537" height="208" key="GridCell.Tab.0.left" timestamp="1601015370590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601015370590" />
+    <state width="1537" height="208" key="GridCell.Tab.0.right" timestamp="1601015370590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601015370590" />
+    <state x="540" y="81" key="SettingsEditor" timestamp="1593181508864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="81" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593181508864" />
+    <state x="778" y="145" width="672" height="160" key="search.everywhere.popup" timestamp="1593877749836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="778" y="145" width="672" height="160" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593877749836" />
+  </component>
+</project>

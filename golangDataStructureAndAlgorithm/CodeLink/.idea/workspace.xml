@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cead30b-99f9-4e9e-ac9d-26a9ab66b42e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1cir8xtvhTiGRIBJpup3FoOc8pR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GO-CODE\src\code.qiangqiang.com\studygo\golang-数据结构与算法\CodeLink" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build code.qiangqiang.com/studygo/golang-数据结构与算法/CodeLink" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="CodeLink" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="code.qiangqiang.com/studygo/golang-数据结构与算法/CodeLink" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build code.qiangqiang.com/studygo/golang-数据结构与算法/CodeLink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cead30b-99f9-4e9e-ac9d-26a9ab66b42e" name="Default Changelist" comment="" />
+      <created>1591022098289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591022098289</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="768" height="206" key="GridCell.Tab.0.bottom" timestamp="1591109817470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591109817470" />
+    <state width="768" height="206" key="GridCell.Tab.0.center" timestamp="1591109817470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591109817470" />
+    <state width="768" height="206" key="GridCell.Tab.0.left" timestamp="1591109817470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591109817470" />
+    <state width="768" height="206" key="GridCell.Tab.0.right" timestamp="1591109817470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591109817470" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591083044102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591083044102" />
+  </component>
+</project>
